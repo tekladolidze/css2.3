@@ -1,0 +1,476 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-height: 2104px;
+
+}
+
+/* header conteiner */
+
+#header_conteiner{
+    margin-top: 12px;
+    margin-bottom: 84px;
+}
+
+
+
+#nav_links{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 277px;
+    margin-right: 277px;
+    color: #323;
+}
+
+
+
+#header_logo{
+    vertical-align: middle;
+    width: 146.683px;
+    height: 21.023px;
+    color: #000000;
+
+}
+
+
+
+#nav_box{
+    max-width: 1183px;
+    width: 100%;
+    background-color: #F7F4FF;
+    margin-left: auto;
+}
+
+
+
+#nav_button{
+    color: #8E26C0;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    padding: 8px 16px;
+    cursor: pointer;
+
+}
+
+
+#nav_links a{
+    padding: 15px;
+    text-decoration:  none;
+}
+
+
+#pink_clic{
+    color: #8E26C0;
+}
+
+
+
+
+/* main conteiner */
+
+#main_box{
+    margin-top: 154px;
+}
+
+
+
+#main_conteiner{
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+#main_foto{
+    vertical-align: middle;
+    display: inline-block;
+    margin-bottom: 83px;
+}
+
+
+#main_ofer_box{
+    text-align: center;
+    max-width: 644px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 25px;
+}
+
+
+#ol_list{
+    color: #000;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: left;
+    display: block;
+    margin-left: 45px;
+}
+
+
+#nav_h1{
+    color: #000;
+    font-size: 40px;
+    padding-bottom: 16px;
+    font-weight: 700;
+    display: inline-block;
+}
+
+
+#nav_paragraf{
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 16px;
+    display: inline-block;
+}
+
+
+/* Contact Us conteiner */
+
+#contact_us_conteiner{
+    max-width: 1221px;
+    width: 100%;
+    height: 706px;
+    background: #F7F4FF;
+    margin: 0 auto;
+
+}
+
+#contact_header{
+    max-width: 905px;
+    width: 100%;
+    margin-top: 84px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#contact_title{
+    color: #000;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+#contact_p{
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 28px;
+
+}
+
+#form_box{
+    max-width: 1221px;
+    padding: 32px;
+    height: 538px;
+    display: inline-block;
+    border-radius: 16px;
+    background: #F7F4FF;
+
+}
+
+#asres_emile_phone_box{
+  max-width: 403px;
+  width: 100%;
+  height: 475px;
+  background-color: #FFF;
+  vertical-align: middle;
+  
+}
+
+
+#adress_icon{
+    vertical-align: middle;
+    padding: 20px;
+
+}
+
+#adres_icon_text{
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+#mail_icon{
+    vertical-align: middle;
+    padding: 20px;
+
+}
+
+#mail_icon_text{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+#phone_icon{
+    vertical-align: middle;
+    padding: 20px;
+}
+
+#phone_icon_text{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+#asres_emile_phone_box img{
+    
+    width: 32px;
+    height: 32px;
+    align-items: center;
+    padding-right: 5px;
+}
+
+#adress_text{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+#mail__text{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+#phone__text{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+#send_message_box{
+    max-width: 730px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    height: 402px;
+}
+
+#send_box_title{
+    text-align: left;
+    margin-left: 24px;
+    margin-bottom: 16px;
+    color: #1B003D;
+    font-weight: 900;
+    font-size: 32px;
+}
+
+
+#form_conteiner{
+    margin-left: 24px;
+}
+
+
+#name__label{
+    display: block;
+}
+
+#name_text{
+    margin-bottom: 24px;
+    width: 686px;
+    height: 48px;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    
+}
+
+
+
+#Email__label{
+    display: block;
+}
+
+
+#Email__text{
+    width: 686px;
+    height: 48px;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    
+}
+
+
+#text_border{
+    display: block;
+    margin-top: 24px;
+}
+
+
+#send_button{
+   margin-top: 24px;
+  
+}
+
+#text_border{
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    height: 122px;
+    width: 686px;
+}
+
+#send_button{
+    max-width: 698px;
+    width: 100%;
+    text-align: right;
+}
+
+#but_text{
+   width: 140px;
+   padding: 12px 24px;
+   border-radius: 8px;
+   background: #8E26C0;
+   border: 0px;
+   color: #FFF;
+   font-size: 16px;
+}
+
+/* footer  */
+
+
+#main_footer{
+    background-color: #53389E;
+    margin-top: 163px;
+   padding-top: 64px;
+   padding-bottom: 48px;
+    
+}
+
+#footer_conteiner{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#footer_nav{
+    text-align: center;
+}
+
+
+#nav_list a{
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+}
+#nav_list{
+   display: inline-block; 
+   margin-right: 77px;
+}
+
+#nav_list_2{
+    display: inline-block; 
+    margin-right: 77px;
+}
+
+#nav_list_2 a{
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+}
+
+#nav_list_3{
+    display: inline-block; 
+    margin-right: 77px;
+}
+ #nav_list_3 a{
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+ }
+
+ #nav_list_4 a{
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+ }
+ #nav_list_4{
+    display: inline-block;
+    margin-right: 77px;
+ }
+
+ #nav_list_5{
+    display: inline-block;
+    margin-right: 77px;
+ }
+
+ #nav_list_5 a{
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+ }
+
+ #nav_list_6 a{
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+
+ }
+
+ #nav_list_6{
+    display: inline-block;
+    margin-right: 77px;
+ }
+
+ #span_new{
+    color: #FFF;
+    text-align: center;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.30);
+    background: rgba(255, 255, 255, 0.10);
+    padding-left: 0;
+ }
+
+
+ #footer_info{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    border-top: 1px solid #7F56D9;
+    height: 64px;
+ }
+
+#purple_full{
+    display: inline-block;
+    width: 139px;
+    height: 32px;
+    margin-top: 32px;
+    vertical-align: middle;
+}
+
+#purple_curcle{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#logo_whith_curcle{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+ #futer_p{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 955px;
+    color: #D6BBFB;
+    font-weight: 400;
+ }
+
+ 
+
+ 
+    
+
